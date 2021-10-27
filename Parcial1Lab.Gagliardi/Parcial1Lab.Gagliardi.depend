@@ -1,0 +1,78 @@
+# depslib dependency file v1.0
+1635290797 source:c:\users\principal\desktop\clases programacion\parcial1lab.gagliardi\aerolinea.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"aerolinea.h"
+
+1635374977 c:\users\principal\desktop\clases programacion\parcial1lab.gagliardi\aerolinea.h
+
+1635288291 source:c:\users\principal\desktop\clases programacion\parcial1lab.gagliardi\destino.c
+	<stdio.h>
+	<stdlib.h>
+	"destino.h"
+
+1635285025 c:\users\principal\desktop\clases programacion\parcial1lab.gagliardi\destino.h
+
+1635371810 source:c:\users\principal\desktop\clases programacion\parcial1lab.gagliardi\avion.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"avion.h"
+	"getIO.h"
+	"aerolinea.h"
+	"tipo.h"
+
+1635371810 c:\users\principal\desktop\clases programacion\parcial1lab.gagliardi\avion.h
+	"aerolinea.h"
+	"tipo.h"
+
+1635285025 source:c:\users\principal\desktop\clases programacion\parcial1lab.gagliardi\fecha.c
+	"fecha.h"
+
+1635285025 c:\users\principal\desktop\clases programacion\parcial1lab.gagliardi\fecha.h
+
+1635288291 source:c:\users\principal\desktop\clases programacion\parcial1lab.gagliardi\datawarehouse.c
+	"dataWarehouse.h"
+	<string.h>
+
+1635290406 c:\users\principal\desktop\clases programacion\parcial1lab.gagliardi\datawarehouse.h
+
+1635304704 source:c:\users\principal\desktop\clases programacion\parcial1lab.gagliardi\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tipo.h"
+
+1635304704 c:\users\principal\desktop\clases programacion\parcial1lab.gagliardi\tipo.h
+
+1635288291 source:c:\users\principal\desktop\clases programacion\parcial1lab.gagliardi\vuelo.c
+	<stdio.h>
+	<stdlib.h>
+	"vuelo.h"
+
+1635290824 c:\users\principal\desktop\clases programacion\parcial1lab.gagliardi\vuelo.h
+	"fecha.h"
+
+1635305650 source:c:\users\principal\desktop\clases programacion\parcial1lab.gagliardi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"vuelo.h"
+	"tipo.h"
+	"fecha.h"
+	"destino.h"
+	"avion.h"
+	"aerolinea.h"
+	"getIO.h"
+
+1635305685 source:c:\users\principal\desktop\clases programacion\parcial1lab.gagliardi\getio.c
+	"getIO.h"
+
+1635304015 c:\users\principal\desktop\clases programacion\parcial1lab.gagliardi\getio.h
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+
